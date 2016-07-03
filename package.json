@@ -1,0 +1,37 @@
+{
+  "name": "interactive-dev-test",
+  "version": "1.0.0",
+  "description": "Interactive developer test for NATIVE VML.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiwaz89/interactive-dev-test.git"
+  },
+  "keywords": [
+    "native",
+    "vml",
+    "interactive",
+    "test",
+    "developer",
+    "javascript"
+  ],
+  "author": "Dean Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiwaz89/interactive-dev-test/issues"
+  },
+  "homepage": "https://github.com/Tiwaz89/interactive-dev-test#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-server-livereload": "^1.8.1",
+    "gulp-uglify": "^1.5.4"
+  }
+}

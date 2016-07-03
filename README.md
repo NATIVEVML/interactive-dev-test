@@ -12,7 +12,7 @@ Please do not get hung up on small details, in this case we are merely trying to
 
 The video is also available on youtube for your convenience
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=w8a5EnAz2pg" target="_blank"><img src="http://img.youtube.com/vi/w8a5EnAz2pg/hqdefault.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=w8a5EnAz2pg" target="_blank"><img src="http://img.youtube.com/vi/w8a5EnAz2pg/hqdefault.jpg"
 alt="Example video" width="480" height="360" /></a>
 
 ## Rules for your animation
@@ -36,5 +36,9 @@ alt="Example video" width="480" height="360" /></a>
 	- Or email us a link to your repo
 	- Or email us your code
 - In addition, you may provide a hosted link.
+
+## To Run
+- run `npm install`
+- followed by `npm start`
 
 Get in touch with us at <careers@native.co.za>
